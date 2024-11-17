@@ -2,7 +2,7 @@
 "urls":[
 {"name":"📚拾光本地📚",
 "url":"./拾光/omg.json"},
-{"name":"📚拾光网盘｜本地仓库📚","url":"clan://localhost/sgdc/网盘/wp.json" },
+{"name":"📚拾光网盘｜本地仓库📚","url":"./网盘/wp.json" },
 {"name":"📚拾光Vip｜本地仓库📚",
 "url":"clan://localhost/sgdc/svip/svip.json"},
 {"name":"📚拾光4K｜本地仓库📚","url":"clan://localhost/sgdc/拾光VIP/4k.json" },
