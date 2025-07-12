@@ -1,6 +1,6 @@
 ﻿{"warningText": "接口免费，切勿付费。","warningText": "关注公众号:拾光趣乐屋。",
 "urls":[
-{"name":"📚拾光本地📚","url": "./拾光/omg.json"},
+{"name":"📚拾光本地📚","url": "https://raw.githubusercontent.com/dsp-19/tvbox/refs/heads/main/sgdc/%E6%8B%BE%E5%85%89/omg.json"},
 {"name":"📚拾光网盘｜本地仓库📚","url":"./网盘/wp.json" },
 {"name":"📚拾光Vip｜本地仓库📚",
 "url":"clan://localhost/sgdc/svip/svip.json"},
