@@ -1,22 +1,10 @@
 ﻿{"warningText": "接口免费，切勿付费。","warningText": "关注公众号:拾光趣乐屋。",
-   "sites": [
-    {
-      "key": "📚饭太硬｜本地仓库📚",
-      "name": "",
-      "type": 0,
-      "api": "。/sgdc/饭太硬/fty.json",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    }
-  ],
 "urls":[
 {"name":"📚拾光本地📚","url": "https://raw.githubusercontent.com/dsp-19/tvbox/refs/heads/main/sgdc/%E6%8B%BE%E5%85%89/omg.json"},
 {"name":"📚拾光网盘｜本地仓库📚","url":"./网盘/wp.json" },
-{"name":"📚拾光Vip｜本地仓库📚",
-"url":"clan://localhost/sgdc/svip/svip.json"},
-{"name":"📚拾光4K｜本地仓库📚","url":"clan://localhost/sgdc/拾光VIP/4k.json" },
-{"name":"📚香雅情｜本地仓库📚","url":"clan://localhost/sgdc/向雅晴/xiangyaqing.json"},
+{"name":"📚拾光Vip｜本地仓库📚","url":"https://raw.githubusercontent.com/dsp-19/tvbox/refs/heads/main/sgdc/%E6%8B%BE%E5%85%89VIP/py.json"},
+{"name":"📚拾光4K｜本地仓库📚","url":"https://raw.githubusercontent.com/dsp-19/tvbox/refs/heads/main/sgdc/%E6%8B%BE%E5%85%89VIP/4k.json" },
+{"name":"📚香雅情｜本地仓库📚","url":"https://raw.githubusercontent.com/dsp-19/tvbox/refs/heads/main/sgdc/向雅晴/xiangyaqing.json"},
 {"name":"📚饭太硬｜本地仓库📚","url":"clan://localhost/sgdc/饭太硬/fty.json"},
 {"name":"📚zjys｜本地仓库📚","url":"clan://localhost/sgdc/简影/zjys.json"},
 {"name":"📚南风｜本地仓库📚","url":"clan://localhost/sgdc/南风/nanfeng.json"},
